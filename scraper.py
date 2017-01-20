@@ -1,7 +1,7 @@
 import urllib2
 from bs4 import BeautifulSoup
 
-ob_page = 'http://banksandbeals.com/ob070929.html'
+ob_page = 'http://banksandbeals.com/ob070218a.html'
 
 page = urllib2.urlopen(ob_page)
 
